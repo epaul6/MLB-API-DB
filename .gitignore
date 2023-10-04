@@ -1,0 +1,4 @@
+venv/
+mlb_fetcher.log
+thread.py
+__pycache__/
